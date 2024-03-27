@@ -9,7 +9,7 @@ def test_the_model():
         r"models/best.pt"
     ) # This is from above we will create best.pt and use here.
     image = cv2.imread(
-        r"D:\learning\final pipe counting module\slats_segmentation-1\download.jpg",
+        r"D:\AMAR_Gitwork\yolov8_instance_segmentation\Copy-of-image8_png_jpg.rf.f7bab6581f69f33bf56a25c57927a652.jpg",
         1,
     )
     results = model.predict(
