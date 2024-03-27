@@ -28,6 +28,7 @@
 
 - Test.py
 
+    Give path to imread to your image path.
 
 - Original image : https://github.com/amarnathreddy0201/yolov8_instance_segmentation/blob/main/Copy-of-image8_png_jpg.rf.f7bab6581f69f33bf56a25c57927a652.jpg
 
